@@ -7,5 +7,12 @@
 .main {
 
     background-color: whitesmoke;
+    text-align: center;
 
+}
+
+.head h6 {
+
+    text-align: center;
+    text-size-adjust: 5px;
 }
